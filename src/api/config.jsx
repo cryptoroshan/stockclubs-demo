@@ -1,0 +1,1 @@
+export const SERVER_API_URL = "https://app-staging.stockclubs.io";
